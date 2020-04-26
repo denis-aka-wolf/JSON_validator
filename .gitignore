@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Debug & Release
+build-JSON_validator-Desktop_Qt_5_14_2_MinGW_32_bit-Debug
+build-JSON_validator-Desktop_Qt_5_14_2_MinGW_32_bit-Release
